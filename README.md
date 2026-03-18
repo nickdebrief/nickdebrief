@@ -1,43 +1,50 @@
 # Nick Moloney
 
-Independent researcher — civic decision systems, public accountability, structured analysis.
+Independent researcher developing structured frameworks for analysing civic decision environments.
 
 ---
 
-## Civic Decision Engine — v10
+## Civic Decision Systems
 
-Structured civic analysis framework for civic decision environments using:
+Structured approach to understanding institutional behaviour through:
 
-- evidence  
-- timelines  
-- institutional interactions  
-
-Produces interpretable analytical signals.
-
-Repository: https://github.com/nickdebrief/civic-decision-engine
+• conceptual frameworks  
+• system implementations  
+• applied civic case analysis  
 
 ---
 
-## Reference Case (Applied)
+## Components
 
-### Civic Case Timeline — Reference Sequence (2026)
+### Civic Decision Engine — v10  
+Conceptual framework for modelling institutional behaviour, evidence structures, and decision environments.
 
-Structured sequence of institutional interactions:
+### Civic Recall Pipeline — v0.1  
+Reference implementation of an auditable civic-content processing pipeline.
 
-- 7 January 2026 — Matter progressed to Legal Services Review (FSPO)  
-- 25 January 2026 — Reference model for auditable decision pipelines shared (FSPO)  
-- 26 January 2026 — Acknowledgement received — awaiting investigation  
-- March 2026 — Petition closure communicated by European Parliament Committee on Petitions Secretariat  
+### Civic Case Timeline — Reference Sequence (2026)  
+Structured record of institutional interactions in a public-interest civic case.
 
 ---
 
 ## Approach
 
-Observation sometimes becomes clearer when structure is applied.
+Observation sometimes becomes clearer when structure is applied.  
 
 Not designed for attention.  
 Designed for understanding.
 
 ---
 
-ORCID: https://orcid.org/0009-0002-9617-1615
+## Structure
+
+Framework → System → Application
+
+---
+
+## Links
+
+- GitHub: https://github.com/nickdebrief/civic-decision-engine  
+- Substack: https://substack.com/@nickdebrief  
+- LinkedIn: https://www.linkedin.com/in/nick-moloney-32369624/  
+- ORCID: https://orcid.org/0009-0002-9617-1615
