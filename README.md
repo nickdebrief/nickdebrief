@@ -1,50 +1,50 @@
 # Nick Moloney
 
-Independent researcher developing structured frameworks for analysing civic decision environments.
+Independent researcher building structured systems for analysing civic decision environments.
 
 ---
 
-## Civic Decision Systems
+## Overview
 
-Structured approach to understanding institutional behaviour through:
+This work focuses on making institutional behaviour, evidence structures, and decision processes observable through structured modelling.
 
-• conceptual frameworks  
-• system implementations  
-• applied civic case analysis  
+It is organised across three layers:
+
+Framework → System → Application
+
+- Civic Decision Engine — v10  
+  Structured framework for modelling institutional behaviour and decision environments  
+  https://github.com/nickdebrief/civic-decision-engine  
+
+- Civic Recall Pipeline — v0.1  
+  Auditable processing pipeline for civic case data and decision traceability  
+  https://github.com/nickdebrief/civic-recall-pipeline  
+
+- Civic Case Timeline (2026)  
+  Structured documentation of real-world institutional interactions  
+  (available via ORCID / published works)  
 
 ---
 
-## Components
+## Focus
 
-### Civic Decision Engine — v10  
-Conceptual framework for modelling institutional behaviour, evidence structures, and decision environments.
-
-### Civic Recall Pipeline — v0.1  
-Reference implementation of an auditable civic-content processing pipeline.
-
-### Civic Case Timeline — Reference Sequence (2026)  
-Structured record of institutional interactions in a public-interest civic case.
+- civic systems analysis  
+- institutional behaviour  
+- procedural transparency  
+- structured evidence frameworks  
 
 ---
 
 ## Approach
 
-Observation sometimes becomes clearer when structure is applied.  
+Observation becomes clearer when structure is applied.
 
-Not designed for attention.  
-Designed for understanding.
-
----
-
-## Structure
-
-Framework → System → Application
+Not designed for attention. Designed for understanding.
 
 ---
 
 ## Links
 
-- GitHub: https://github.com/nickdebrief/civic-decision-engine  
-- Substack: https://substack.com/@nickdebrief  
-- LinkedIn: https://www.linkedin.com/in/nick-moloney-32369624/  
-- ORCID: https://orcid.org/0009-0002-9617-1615
+- ORCID: https://orcid.org/0009-0002-9617-1615  
+- Substack: https://nickdebrief.substack.com  
+- LinkedIn: https://www.linkedin.com/in/nick-moloney-32369624/
