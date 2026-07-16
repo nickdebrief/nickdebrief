@@ -1,37 +1,99 @@
 # Nick Moloney
 
-Independent researcher building structured systems for analysing civic decision environments.
+Independent civic technology developer and governance researcher building deterministic governance 
+systems for public administration, document governance, and institutional decision traceability.
 
 ---
 
 ## Overview
 
-This work focuses on making institutional behaviour, evidence structures, and decision processes observable through structured modelling.
+My work focuses on making institutional behaviour observable through structured governance systems.
 
-It is organised across three layers:
+It is organised across three complementary layers:
 
-Framework → System → Application
+Framework → Engine → Public Record
 
-- Civic Decision Engine — v10  
-  Structured framework for modelling institutional behaviour and decision environments  
-  https://github.com/nickdebrief/civic-decision-engine  
+* **Civic Record Evaluation Framework (CREF)**
 
-- Civic Recall Pipeline — v0.1  
-  Auditable processing pipeline for civic case data and decision traceability  
-  https://github.com/nickdebrief/civic-recall-pipeline  
+  A structured governance methodology for evaluating administrative records,
+  evidence, document lifecycles, and institutional decision environments.
 
-- Civic Case Timeline (2026)  
-  Structured documentation of real-world institutional interactions  
-  (available via ORCID / published works)  
+* **Civic Decision Engine (CDE)**
+
+  An open-source reference implementation of CREF providing governed document
+  intake, administrative review workflows, publication governance, evidence
+  traceability, archive collections, record associations, verification, and
+  public document management.
+
+* **Public Accountability Archive**
+
+  A public record demonstrating the framework through versioned publications,
+  preserved administrative records, and fully auditable governance workflows.
+  
+  ---
+  
+## Core Principles
+
+* Deterministic governance
+* Administrative traceability
+* Independent object identity
+* Lifecycle preservation
+* Evidence integrity
+* Publication governance
+* Public verification
+* Transparent audit history
 
 ---
 
-## Focus
+## Current Capabilities
 
-- civic systems analysis  
-- institutional behaviour  
-- procedural transparency  
-- structured evidence frameworks  
+The Civic Decision Engine currently provides:
+
+* Governed Document Intake
+* Administrative Review Workflow
+* Public Document Library
+* Record–Document Associations
+* Archive Collections
+* Collection Membership Governance
+* Record Evidence Workspace
+* Administrative Audit
+* Verification & Provenance
+* Immutable Administrative History
+* Public Verification Services
+
+---
+
+## Current Research
+
+Current research explores how structured governance systems can model:
+
+* institutional behaviour
+* public administration
+* document governance
+* decision traceability
+* administrative provenance
+* evidence lifecycle
+* public accountability
+
+---
+
+## Public Resources
+
+* GitHub repositories
+* ORCID publications
+* LinkedIn research
+* Civic Decision Engine
+* Public Document Library
+* Civic Record Evaluation Framework
+
+---
+
+## Philosophy
+
+Every object retains its own identity.
+Every relationship retains its own pathway.
+Governance preserves both.
+
 
 ---
 
@@ -43,8 +105,3 @@ Not designed for attention. Designed for understanding.
 
 ---
 
-## Links
-
-- ORCID: https://orcid.org/0009-0002-9617-1615  
-- Substack: https://nickdebrief.substack.com  
-- LinkedIn: https://www.linkedin.com/in/nick-moloney-32369624/
